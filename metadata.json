@@ -1,0 +1,5 @@
+{
+  "name": "R Player",
+  "description": "A web-based media player named R Player, allowing users to play local video files with a familiar interface. Features include playback controls, volume adjustment, seeking, fullscreen mode, and a playlist.",
+  "requestFramePermissions": []
+}
